@@ -3,7 +3,7 @@ import shutil
 import os
 
 # Download the dataset
-default_path = kagglehub.dataset_download("lainguyn123/student-performance-factors")
+default_path = kagglehub.dataset_download("bhavikjikadara/student-study-performance")
 
 # Define your desired download location
 custom_path = r"C:\ML Projects\mlproject\notebook\data"
